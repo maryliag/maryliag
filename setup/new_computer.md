@@ -18,6 +18,8 @@
 # Development Setup
 - [Iterm2](https://iterm2.com/)
 - [Startship](https://starship.rs/)
+  - After installing the font required, go to ITerm an update the Font
+  <img src="images/iterm_text.png" width="500px"/>
 - [Homebrew](https://brew.sh/)
 - Create [zshrc](.zshrc) file
 - Setup [github ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
@@ -45,6 +47,7 @@
 ❯ brew install nvm
 ❯ brew install vault
 ```
+- Clone [CRDB](https://github.com/cockroachdb/cockroach) and [Managed](https://github.com/cockroachlabs/managed-service)
 - [GVM](https://github.com/moovweb/gvm)
 - [Goland](https://www.jetbrains.com/go/download/#section=mac) (If installing on M1 make sure to change the dropdown to select the `Apple Silicon` option)
   - Follow the [tips](https://cockroachlabs.atlassian.net/wiki/spaces/ENG/pages/154206209/Goland+Tips+and+Tricks)
@@ -59,7 +62,6 @@
   - Create run config (helpful for debugging)
   <img src="images/run_demo.png" width="500px"/>
   
-- Clone [CRDB](https://github.com/cockroachdb/cockroach) and [Managed](https://github.com/cockroachlabs/managed-service)
 - Follow [steps](https://cockroachlabs.atlassian.net/wiki/spaces/CRDB/pages/73204103/Building+from+source+on+macOS) from building CRDB
 - Install [backport tool](https://cockroachlabs.atlassian.net/wiki/spaces/CRDB/pages/900005932/Backporting+a+change+to+a+release+branch)
 
