@@ -6,7 +6,8 @@
   - Setup buttons on mouse
 - [Caffeine](https://www.macupdate.com/app/mac/24120/caffeine)
 - Install US International Keyboard
-![](images/keyboard.png)
+<img src="images/keyboard.png" width="500px"/>
+
 - System Preferences > Mission Control > Turn off `Automatically rearrange Spaces based on most recent use`
 - System Preferences > Trackpad > Turn on `Mission Control > Swipe up with four fingers` 
 - System Preferences > Trackpad > Turn on `App Exposé > Swipe down with four fingers`
@@ -45,16 +46,19 @@
 ❯ brew install vault
 ```
 - [GVM](https://github.com/moovweb/gvm)
-- [Goland](https://www.jetbrains.com/go/download/#section=mac) (If installing on M1 make sure change the dropdown to select the `Apple Silicon` option)
+- [Goland](https://www.jetbrains.com/go/download/#section=mac) (If installing on M1 make sure to change the dropdown to select the `Apple Silicon` option)
   - Follow the [tips](https://cockroachlabs.atlassian.net/wiki/spaces/ENG/pages/154206209/Goland+Tips+and+Tricks)
   - Exclude `bazel`
   - Turn on `eslint` on CRDB and Managed
-  ![](images/eslint.png)
+  <img src="images/eslint.png" width="500px"/>
+  
   - Update GOROOT and GOPATH
-  ![](images/goroot.png)
-  ![](images/gopath.png)
+  <img src="images/goroot.png" width="500px"/>
+  <img src="images/gopath.png" width="500px"/>
+  
   - Create run config (helpful for debugging)
-  ![](images/run_demo.png)
+  <img src="images/run_demo.png" width="500px"/>
+  
 - Clone [CRDB](https://github.com/cockroachdb/cockroach) and [Managed](https://github.com/cockroachlabs/managed-service)
 - Follow [steps](https://cockroachlabs.atlassian.net/wiki/spaces/CRDB/pages/73204103/Building+from+source+on+macOS) from building CRDB
 - Install [backport tool](https://cockroachlabs.atlassian.net/wiki/spaces/CRDB/pages/900005932/Backporting+a+change+to+a+release+branch)
