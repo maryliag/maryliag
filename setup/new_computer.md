@@ -11,8 +11,6 @@
 - System Preferences > Mission Control > Turn off `Automatically rearrange Spaces based on most recent use`
 - System Preferences > Trackpad > Turn on `Mission Control > Swipe up with four fingers` 
 - System Preferences > Trackpad > Turn on `App Exposé > Swipe down with four fingers`
-- [Next Meeting](https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12)
-  - Adjust Text Length
 
 
 # Development Setup
@@ -21,6 +19,7 @@
   - After installing the font required, go to ITerm an update the Font
   <img src="images/iterm_text.png" width="500px"/>
 - [Homebrew](https://brew.sh/)
+  - `brew bundle` (using [Brewfile](Brewfile))
 - Create [zshrc](.zshrc) file
 - Setup [github ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 - Setup github user
@@ -34,19 +33,10 @@
   .DS_Store
   *.idea
   ```
-- XCode and XCode command line tools
-  `xcode-select --install`
-- [Loom](https://www.loom.com/download)
-- [Tuple](https://tuple.app/downloads/)
+
 
 # CockroachDB specific setup
-```
-❯ brew install go
-❯ brew install node
-❯ brew install yarn
-❯ brew install nvm
-❯ brew install vault
-```
+
 - Clone [CRDB](https://github.com/cockroachdb/cockroach) and [Managed](https://github.com/cockroachlabs/managed-service)
 - [GVM](https://github.com/moovweb/gvm)
 - [Goland](https://www.jetbrains.com/go/download/#section=mac) (If installing on M1 make sure to change the dropdown to select the `Apple Silicon` option)
@@ -68,3 +58,20 @@
   `go install github.com/benesch/backport@latest`
 - [PR master](https://github.com/benesch/prmaster)
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/downloads-interactive)
+
+
+# Things installed by Brewfile
+In case some installations fail:
+- [Next Meeting](https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12)
+  - Adjust Text Length
+- XCode and XCode command line tools
+    `xcode-select --install`
+- [Loom](https://www.loom.com/download)
+- [Tuple](https://tuple.app/downloads/)
+```
+❯ brew install go
+❯ brew install node
+❯ brew install yarn
+❯ brew install nvm
+❯ brew install vault
+```

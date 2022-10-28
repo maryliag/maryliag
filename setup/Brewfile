@@ -1,0 +1,28 @@
+tap "cockroachdb/tap"
+tap "homebrew/bundle"
+tap "homebrew/cask-fonts"
+tap "homebrew/core"
+
+brew "autoconf"
+brew "bazelisk"
+brew "cmake"
+brew "cockroach"
+brew "git"
+brew "go"
+brew "gpatch"
+brew "make"
+brew "mas"
+brew "node"
+brew "nvm"
+brew "pre-commit"
+brew "vault"
+brew "yarn"
+
+cask "figma"
+cask "loom", greedy: true
+cask "tuple", greedy: true
+
+mas "Numbers", id: 409203825
+mas "Keynote", id: 409183694
+mas "Xcode", id: 497799835
+mas "Next Meeting", id: 1017470484
