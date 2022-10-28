@@ -30,7 +30,7 @@
     ```
 - Create global gitignore 
   ```
-  ❯ cat ~/.gitignore
+  ❯ vi ~/.gitignore
   .DS_Store
   *.idea
   ```
