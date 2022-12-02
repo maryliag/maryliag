@@ -1,4 +1,15 @@
-### Hi, I'm Marylia Gutierrez 👋
+### Hi, I'm Marylia Gutierrez 👋 (she/her) 🇧🇷 🇨🇦
+
+I'm an Engineer Manager/ Full Stack Developer at [Cockroach Labs](https://www.cockroachlabs.com/), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
+
+Blog Posts
+- [How to use indexes for better workload performance](https://www.cockroachlabs.com/blog/indexes-for-better-workload-performance/) (Cockroach Labs)
+- [SQL Query Tuning with DB Console](https://www.cockroachlabs.com/blog/dbconsole-query-tuning/) (Cockroach Labs)
+
+Artigos em Português
+- [Boas Práticas de Retenção de Talentos Tech](https://www.programaria.org/retencao-de-talentos-tech/) (Programaria)
+
+
 
 <!--
 **maryliag/maryliag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
