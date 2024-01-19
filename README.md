@@ -4,7 +4,6 @@ I'm a Full Stack Developer at [Cockroach Labs](https://www.cockroachlabs.com/), 
 
 https://www.marylia.dev/
 
-
-![Marylia Gutierrez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=maryliag&show_icons=true&theme=algolia)
+["https://github-readme-stats.vercel.app/api?username=maryliag&show_icons=true&theme=algolia"]::
 
 ![Marylia Gutierrez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryliag&layout=compact&theme=algolia)
