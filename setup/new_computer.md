@@ -12,6 +12,8 @@
 - System Preferences > Trackpad > Turn on `Mission Control > Swipe up with four fingers` 
 - System Preferences > Trackpad > Turn on `App Exposé > Swipe down with four fingers`
 
+- Allow key repeat without showing accents `defaults write -g ApplePressAndHoldEnabled -bool false`
+
 
 # Development Setup
 - [Iterm2](https://iterm2.com/)
