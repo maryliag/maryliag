@@ -1,6 +1,6 @@
 ### Hi, I'm Marylia Gutierrez 👋 (she/her) 🇧🇷 🇨🇦
 
-I'm a Full Stack Developer at [Cockroach Labs](https://www.cockroachlabs.com/), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
+I'm a Software Developer at [Grafana](https://grafana.com/), working on OpelTelemetry.
 
 https://www.marylia.dev/
 
