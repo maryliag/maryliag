@@ -1,6 +1,6 @@
 ### Hi, I'm Marylia Gutierrez 👋 (she/her) 🇧🇷 🇨🇦
 
-I'm a Software Developer at [Grafana](https://grafana.com/), working on OpelTelemetry.
+I'm a Software Developer at [Grafana](https://grafana.com/), working on Open Telemetry.
 
 https://www.marylia.dev/
 
