@@ -4,7 +4,8 @@ I'm a Senior Staff Full Stack Software Developer.
 
 - Software Developer at [Grafana](https://grafana.com/), focusing on Open Telemetry SDKs
 - Member of [Open Telemetry - CNCF](https://github.com/open-telemetry)
-- Code owner of [OpenTelemetry Postgres Instrumentation for Node.js](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
+- Triager of [Open Telemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
+- Code owner of [OpenTelemetry Postgres Instrumentation for Node.js SDK](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
 
 ### Personal Website
 https://www.marylia.dev/
