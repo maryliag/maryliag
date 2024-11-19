@@ -2,9 +2,10 @@
 
 I'm a Senior Staff Full Stack Software Developer.
 
-- Senior Staff Software Engineer at [Grafana](https://grafana.com/), focusing on Open Telemetry SDKs
-- Member of [Open Telemetry - CNCF](https://github.com/open-telemetry)
-- Triager of [Open Telemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
+- Staff Software Engineer at [Grafana](https://grafana.com/), focusing on Open Telemetry SDKs
+- Member of [OpenTelemetry - CNCF](https://github.com/open-telemetry)
+- Maintainer of [OpenTelemetry Contributor Experience](https://github.com/open-telemetry/sig-contributor-experience)
+- Approver of [OpenTelemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
 - Code owner of [OpenTelemetry Postgres Instrumentation for Node.js SDK](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
 - Approver of [Portuguese docs on OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io/tree/main/content/pt)
 
@@ -19,5 +20,5 @@ https://www.marylia.dev/
 
 #### Previous
 
-- Full Stack Developer and Engineer Manager for Observability at [Cockroach Labs](https://www.cockroachlabs.com/), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
+- Full Stack Developer and Engineer Manager for Cluster Observability at [Cockroach Labs](https://www.cockroachlabs.com/), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
 - Full Stack Developer at [IBM](https://www.ibm.com/). 
