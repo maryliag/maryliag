@@ -2,8 +2,7 @@
 
 I'm a Senior Staff Full Stack Software Developer.
 
-- Staff Software Engineer at [Grafana](https://grafana.com/), focusing on Open Telemetry SDKs
-- Member of [OpenTelemetry - CNCF](https://github.com/open-telemetry)
+- Staff Software Engineer at [Grafana](https://grafana.com/), focusing on OpenTelemetry SDKs
 - Maintainer of [OpenTelemetry Contributor Experience](https://github.com/open-telemetry/sig-contributor-experience)
 - Approver of [OpenTelemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
   - Code owner of [OpenTelemetry Postgres Instrumentation for Node.js SDK](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
