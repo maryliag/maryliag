@@ -9,6 +9,7 @@ I'm a Senior Staff Full Stack Software Developer.
   - Code owner of [OpenTelemetry Postgres Instrumentation for Node.js SDK](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
 - Approver of [Database Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)
 - Approver of [Portuguese docs on OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io/tree/main/content/pt)
+- Approver of [OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 
 ### Personal Website
 https://www.marylia.dev/
