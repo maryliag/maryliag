@@ -2,7 +2,7 @@
 
 I'm a Principal Full Stack Software Developer.
 
-- Principal Software Engineer at [Grafana](https://grafana.com/), focusing on OpenTelemetry SDKs
+- Principal Software Engineer at [Grafana Labs](https://grafana.com/), focusing on OpenTelemetry SDKs
 - OpenTelemetry Governance Committee member
 - Maintainer of [OpenTelemetry Contributor Experience](https://github.com/open-telemetry/sig-contributor-experience)
 - Approver of [OpenTelemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
