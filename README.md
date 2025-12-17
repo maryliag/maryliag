@@ -5,11 +5,10 @@ I'm a Principal Full Stack Software Developer.
 - Principal Software Engineer at [Grafana Labs](https://grafana.com/), focusing on OpenTelemetry SDKs
 - OpenTelemetry Governance Committee member
 - Maintainer of [OpenTelemetry Contributor Experience](https://github.com/open-telemetry/sig-contributor-experience)
+- Maintainer of [Portuguese docs on OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io/tree/main/content/pt)
 - Approver of [OpenTelemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)
-  - Code owner of [OpenTelemetry Postgres Instrumentation for Node.js SDK](https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/plugins/node/opentelemetry-instrumentation-pg)
-- Approver of [Database Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)
-- Approver of [Portuguese docs on OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io/tree/main/content/pt)
 - Approver of [OpenTelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+- Approver of [Database Semantic Conventions](https://github.com/open-telemetry/semantic-conventions)
 
 ### Personal Website
 https://www.marylia.dev/
