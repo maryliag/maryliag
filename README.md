@@ -1,6 +1,6 @@
 ### Hi, I'm Marylia Gutierrez 👋 (she/her) 🇧🇷 🇨🇦
 
-I'm a Principal Full Stack Software Developer.
+I'm a Principal Full Stack Software Engineer.
 
 - Principal Software Engineer at [Grafana Labs](https://grafana.com/), focusing on OpenTelemetry SDKs
 - OpenTelemetry Governance Committee member
