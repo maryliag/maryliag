@@ -13,12 +13,6 @@ I'm a Principal Full Stack Software Engineer.
 ### Personal Website
 https://www.marylia.dev/
 
-### Stats
-["https://github-readme-stats.vercel.app/api?username=maryliag&show_icons=true&theme=algolia"]::
-
-![Marylia Gutierrez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryliag&layout=compact&theme=algolia)
-
-
 #### Previous
 
 - Full Stack Developer and Engineer Manager for Cluster Observability at [Cockroach Labs](https://www.cockroachlabs.com/), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
